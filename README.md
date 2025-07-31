@@ -9,7 +9,7 @@
 
 #### 🧲 | Draggability: Draggable UI with smooth animations. (QuadOut)
 
-#### ⚙️ No Performance Impact: Small LocalScripts ensure smooth performance.
+#### ⚙️ | No Performance Impact: Small LocalScripts ensure smooth performance.
 
 ## 📄 | Script:
-### `loadstring(game:HttpGet("https://raw.githubusercontent.com/cc11u/xen/refs/heads/main/main"))()`
+#### `loadstring(game:HttpGet("https://raw.githubusercontent.com/cc11u/xen/refs/heads/main/main"))()`
