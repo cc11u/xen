@@ -11,5 +11,7 @@
 
 #### ⚙️ | No Performance Impact: Small LocalScripts ensure smooth performance.
 
+#### 📃 | Open-Source.
+
 ## 📄 | Script:
 #### `loadstring(game:HttpGet("https://raw.githubusercontent.com/cc11u/xen/refs/heads/main/main"))()`
