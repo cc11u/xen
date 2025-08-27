@@ -1,13 +1,14 @@
 local Players = game:GetService("Players")
 local UserInputService = game:GetService("UserInputService")
 local TweenService = game:GetService("TweenService")
+local player = Players.LocalPlayer
 
 local xen = Instance.new("ScreenGui")
 xen.Name = "xen"
 xen.IgnoreGuiInset = true
 xen.ScreenInsets = Enum.ScreenInsets.DeviceSafeInsets
 xen.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
-xen.Parent = game.StarterGui
+xen.Parent = player:WaitForChild("PlayerGui")
 
 local mainFrame = Instance.new("Frame")
 mainFrame.Name = "Frame"
